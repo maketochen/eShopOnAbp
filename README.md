@@ -2,9 +2,10 @@
 
 This is a reference project for those who want to build microservice solutions with the ABP Framework.
 
-See [the blog post](https://abp.io/blog/Introducing-the-eShopOnAbp-Project) for more info.
-
-Live demo 👉 https://www.eshoponabp.com/
+> ⚠️ **Important Notice**  
+> This project, "eshoponabp," is outdated. It served as a reference project for microservice architecture using the ABP Framework, but we now recommend using the [ABP Microservice Solution Template](https://abp.io/docs/latest/solution-templates/microservice) for new projects.  
+>  
+> The new template offers a modernized and officially supported starting point for building microservices with ABP. Please consider transitioning to the new template for the latest features and improvements.
 
 ## Issues
 
