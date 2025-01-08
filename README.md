@@ -79,7 +79,7 @@ Generating a new certificate will fix that issue. To generate a new one,
 - [x] Use gRPC for catalog microservice ✔️
 - [x] Management Side of Services ✔️
 - [x] Administration application (to manage products and orders with a dashboard) ✔️
-- [x] Deployment to azure k8s ✔️ (https://eshoponabp.com)
+- [x] Deployment to azure k8s ✔️
 ### Version 2.0
 - [x] Product-detail page on the shopping application (with CMS-kit integration for comments and rating components) ✔️
 - [x] Switch to Keycloak from IdentityServer in AuthServer
